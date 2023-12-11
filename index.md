@@ -15,4 +15,4 @@ I enjoyed this lab because I was the first to finish it in my class. This assign
 
 Lab 12
 
-This code was the most complex code so far. I loved learning about how images work, how the colors work, and how to code an image. I hope to code in my future careers and this lab was eye opening to see the work it takes to code a simple gif with the different colored images. I hope to work on web design as well so I am very happy I finished with a lab like this one.
+This code was the most complex code so far. I loved learning about how images work, how the colors work, and how to code an image. I hope to code in my future careers and this lab was eye opening to see the work it takes to code a simple gif with the different colored images. I hope to work on web design as well so I am very happy I finished with a lab like this one. These Labs have taught me so much and i hope to continue with labs similar to this one.
